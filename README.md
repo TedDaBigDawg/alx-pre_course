@@ -1,1 +1,1 @@
-My first readme
+Writing readme on my own
